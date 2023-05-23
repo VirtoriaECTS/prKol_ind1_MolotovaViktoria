@@ -1,0 +1,22 @@
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+J:\Основы алгоритмизации\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\Коллекции в C#\2 задание (в форме)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
